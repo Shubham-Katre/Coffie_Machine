@@ -15,12 +15,6 @@ The Coffee Machine Simulator provides the following features:
 
 - **Buy**: Allows the user to purchase different types of coffee (Espresso, Latte, Cappuccino) with their respective prices. Coffee will be dispensed only if there are enough ingredients in the machine.
 
-- **Espresso**: price - $4/cup, water needed – 250 ml/cup, milk needed – 0 ml/cup, beans needed - 16/cup
-
-- **Latte**: price - $7/cup, water needed – 350 ml/cup, milk needed – 75 ml/cup, beans needed - 20/cup
-
-- **Cappuccino**: price - $6/cup, water needed – 200 ml/cup milk needed – 100 ml/cup beans needed - 12/cup. 
-
 - **Fill**: Enables the user to add more ingredients (water, milk, beans) to the coffee machine.
 - **Show the coffee Ingredient**: Displays the current status of the coffee machine, including the amount of water, milk, beans, and money available.
 - **Analytics**: Shows the total earnings, and the total amount of ingredients consumed.
@@ -49,11 +43,16 @@ java CoffeeMachine
 
 Once the application is running, you will be presented with a menu of actions to choose from. Enter the corresponding number for the action you want to perform:
 
-![logo](Images/im1.png)
-![logo](Images/im2.png)
-![logo](Images/im3.png)
-![logo](Images/im4.png)
-![logo](Images/im5.png)
+![image](https://github.com/Shubham-Katre/Coffie_Machine/assets/112012810/c388c40c-2e60-48cd-8b10-db438f295a5f)
+![image](https://github.com/Shubham-Katre/Coffie_Machine/assets/112012810/5e1c6aad-36cf-4d35-8b20-77ea47862b25)
+![image](https://github.com/Shubham-Katre/Coffie_Machine/assets/112012810/91ba9a22-be2a-48d3-bc04-c68b66b0994c)
+![image](https://github.com/Shubham-Katre/Coffie_Machine/assets/112012810/05b69a30-e4a1-4ccd-94bb-d64843ff4a31)
+![image](https://github.com/Shubham-Katre/Coffie_Machine/assets/112012810/1587ae26-b8fb-4ddf-81cc-2d7a9fff051a)
+
+
+
+
+
 
 Follow the prompts and enter the required information as requested by each action.
 
